@@ -7,10 +7,12 @@
 
     <TextView
         android:id="@+id/timeTextView"
-        android:layout_width="71dp"
-        android:layout_height="31dp"
+        android:layout_width="252dp"
+        android:layout_height="56dp"
+        android:includeFontPadding="false"
         android:text="TextView"
         android:textAlignment="center"
+        android:textSize="48sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
